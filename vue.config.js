@@ -48,7 +48,7 @@ module.exports = {
   devServer: {
     proxy: {
       '/api': {
-        target: 'https://cosmos.api.ping.pub/',
+        target: 'https://api.hazlor.com/',
         changeOrigin: true,
         pathRewrite: {
           '^/api': '',

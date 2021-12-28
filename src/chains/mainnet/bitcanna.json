@@ -1,8 +1,8 @@
 {
-    "chain_name": "bitcanna",
-    "coingecko": "bitcanna", 
-    "api":"https://lcd.bitcanna.io", 
+    "chain_name": "hazlor",
+    "coingecko": "hazlor", 
+    "api":"https://api.hazlor.com", 
     "sdk_version": "0.44.2",
-    "addr_prefix": "bcna",
-    "logo": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/bcna.svg"
+    "addr_prefix": "atscas",
+    "logo": "https://hazlor.com/wp-content/uploads/2021/12/Icon-3-Square.png"
 }
