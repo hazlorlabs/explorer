@@ -74,7 +74,7 @@
                     v-model="address"
                     class="mt-1"
                     name="address"
-                    placeholder="cosmos1ev0vtddkl7jlwfawlk06yzncapw2x9quyxx75u"
+                    placeholder="tscas1ev0vtddkl7jlwfawlk06yzncapw2x9quyxx75u"
                   />
                   <small class="text-danger">{{ debug }}{{ errors[0] }}</small>
                 </validation-provider>
